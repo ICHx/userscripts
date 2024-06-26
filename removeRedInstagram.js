@@ -6,6 +6,7 @@
 // @match    https://www.instagram.com/*
 // @grant    none
 // @license  Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+// @namespace https://greasyfork.org/users/889070
 // ==/UserScript==
 
 // Define a function to remove red elements
